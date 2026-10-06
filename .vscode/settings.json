@@ -1,0 +1,20 @@
+{
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "D:\\ESPIDF\\Espressif\\tools\\esp-clang\\esp-18.1.2_20240912\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=d:\\ATK-Project\\00-basic\\build"
+  ],
+  "idf.currentSetup": "D:/ESPIDF/Espressif/frameworks/esp-idf-v5.4/",
+  "idf.espIdfPathWin": "D:/ESPIDF/Espressif/frameworks/esp-idf-v5.4/",
+  "idf.pythonInstallPath": "D:\\ESPIDF\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM12",
+  "idf.toolsPathWin": "D:\\ESPIDF\\Espressif",
+  "idf.flashType": "UART"
+}
